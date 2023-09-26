@@ -1,0 +1,8 @@
+{
+    "dev" : {
+        "logLevel": "DEBUG",
+        "appConfig": "dev",
+        "appSufix": "-dev",
+        "appInstances": 1
+    }
+}
